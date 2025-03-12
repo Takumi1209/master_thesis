@@ -4,6 +4,6 @@
 アバタを活用してZoom Fatigueを軽減するオンライン会議システムの開発
 ## リポジトリ内容
 - Takahashi_M25.pdf: 修士論文
-- Takahashi_M25_final.pptx: 最終発表資料
-- Takahashi_M25_interim.pptx: 中間発表資料
-- Takahashi_M25_report.pptx: 研究室内最終報告資料
+- Takahashi_M25_M1presentation.pdf: 修士課程1年時の発表会予稿
+- Takahashi_M25_M2interim.pdf: 修士課程2年時の中間審査会予稿
+- Takahashi_M25_final.pdf: 修士課程2年時の最終審査会予稿

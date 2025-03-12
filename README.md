@@ -1,4 +1,4 @@
-# master_thesis
+# 修士研究(master thesis)
 私の修士論文に関する資料
 ## 卒業論文テーマ
 アバタを活用してZoom Fatigueを軽減するオンライン会議システムの開発
